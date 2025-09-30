@@ -1,3 +1,5 @@
+import Navbar   from '../Header/Navbar'
+
 export default function Background() {
   return (
     <>
@@ -6,10 +8,12 @@ export default function Background() {
      
       <div className="flex items-start  ">
         
-        <div className="w-0 h-0 border-l-[190px] border-b-[190px] border-l-black border-b-gray-300 border-2 rotate-[180deg]"></div>
+        <div className="w-0 h-0 border-l-[190px] border-b-[190px] border-l-gray-400 border-b-gray-300 border-2 rotate-[180deg]"></div>
 
-        <div className="w-[195vh] h-48 bg-black"></div>
+        <div className="w-[195vh] h-48 bg-gray-400"></div>
       </div>
+
+
     </>
   );
 }
