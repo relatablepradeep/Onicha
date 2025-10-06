@@ -1,10 +1,12 @@
-import Background from "./Component/Background/Background";
+import TechList from "./Component/TechList/TechList";
 
 
 export default function Home() {
   return (
    
     <>
+
+    <TechList/>
 
 
     </>
