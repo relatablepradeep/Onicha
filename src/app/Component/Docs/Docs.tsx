@@ -1,11 +1,11 @@
 
-export default function TechList(){
+export default function Docs(){
 
     return(
 
         <div className=" w-1/2 h-1/2  ">
 
-            <div className="bg-gray-900   h-[78vh] w-[186vh]  top-19 left-50  fixed  ">
+            <div className="bg-white   h-[71vh] w-[189vh]  top-24 left-42  fixed  ">
 
                 frontend
 

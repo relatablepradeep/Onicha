@@ -1,4 +1,4 @@
-import TechList from "./Component/TechList/TechList";
+import Docs from "./Component/Docs/Docs";
 
 
 export default function Home() {
@@ -6,7 +6,7 @@ export default function Home() {
    
     <>
 
-    <TechList/>
+    <Docs/>
 
 
     </>
