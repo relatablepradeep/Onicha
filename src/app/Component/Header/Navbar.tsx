@@ -10,7 +10,7 @@ export default function  NavBar(){
 
     <nav className="flex justify-center pt-9   ">
 
-    <div className="space-x-24 text-2xl">
+    <div className=" space-x-64 text-2xl">
 
       <Link href='/' >
 
